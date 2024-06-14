@@ -136,7 +136,7 @@ nav{
     text-transform: capitalize;
 }
 #bottom{
-    height: 30vh;
+    height: 40vh;
     width: 100%;
     margin-top: 2vw;
 }
@@ -145,7 +145,7 @@ nav{
 justify-content: space-between;
 }
 #bottom h1{
-    font-size: 2vw;
+    font-size: 1.2vw;
     font-weight: 800;
     padding: 40px;
 }
@@ -269,7 +269,7 @@ justify-content: space-between;
         font-size: 3.7vw;
     }
     #bottom{
-        height: 20vh;
+        height: 30vh;
         width: 100%;
         margin-top: 0vw;
     }
